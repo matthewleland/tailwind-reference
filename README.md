@@ -1,7 +1,5 @@
 # tailwind-reference
 
-This is a reference guide for tailwind classes I created while following Brad Traversy's 'Tailwind CSS From Scratch' Udemy course.
-
-https://github.com/bradtraversy/tailwind-sandbox
+This is a reference guide for tailwind I created while following Brad Traversy's 'Tailwind CSS From Scratch' Udemy course.
 
 https://www.udemy.com/course/tailwind-from-scratch/
